@@ -1,0 +1,4 @@
+Eggplant,2,5.38
+Juice,1,2.39
+Banana,3,0.81
+TOTAL,6,8.58

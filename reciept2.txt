@@ -1,0 +1,7 @@
+Grapes,1,3.99
+Eggplant,1,2.69
+Dogfood,1,7.29
+Horseradish,1,0.59
+Juice,1,2.39
+Kale,1,1.23
+TOTAL,9,18.18
